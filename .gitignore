@@ -1,0 +1,22 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+obj/
+UnityGenerated/
+Library/
+*.apk
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
